@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">MyfirstApp</string>
+=======
+    <string name="app_name">LoveCat</string>
+>>>>>>> 743beb9 (LoveCat)
+</resources>
